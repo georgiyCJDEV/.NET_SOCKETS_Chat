@@ -1,0 +1,31 @@
+﻿<Window x:Class="Client_WPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Client_WPF"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        Title="Chat.NET" 
+        Height="450" 
+        Width="800" 
+        Closing="Window_Closing">
+    <Grid>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="800">
+            </ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="450">
+            </RowDefinition>
+        </Grid.RowDefinitions>
+
+        <Button x:Name="con_Button" Content="Connect" FontSize="20" HorizontalAlignment="Left" VerticalAlignment="Top" Height="57" Width="144" Click="con_Button_Click"/>
+        <TextBox x:Name="name_Tb" HorizontalAlignment="Left" Margin="144,0,0,0" TextWrapping="Wrap" Text="Username" TextAlignment="Center" FontSize="22" VerticalAlignment="Top" Width="656" Height="57"/>
+        <ListBox x:Name="chatBox_Lb" Margin="144,57,0,69"/>
+        <TextBox x:Name="message_Tb" IsEnabled="False" HorizontalAlignment="Left" Height="53" Margin="144,381,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="656" KeyDown="message_Tb_KeyDown" PreviewMouseLeftButtonDown="message_Tb_PreviewMouseLeftButtonDown"/>
+        <Button x:Name="save_Button" Content="Save chat" FontSize="20" HorizontalAlignment="Left" Margin="0,381,0,0" VerticalAlignment="Top" Width="144" Height="53" Click="save_Button_Click"/>
+
+    </Grid>
+</Window>
