@@ -18,3 +18,23 @@ C:\Users\wowpo\source\repos\ВУЗ\Проекты курсовых работ\.N
 C:\Users\wowpo\source\repos\ВУЗ\Проекты курсовых работ\.NET_SOCKETS_Chat\Client_WPF\Client_WPF\obj\Debug\net8.0-windows\Client_WPF.pdb
 C:\Users\wowpo\source\repos\ВУЗ\Проекты курсовых работ\.NET_SOCKETS_Chat\Client_WPF\Client_WPF\obj\Debug\net8.0-windows\Client_WPF.genruntimeconfig.cache
 C:\Users\wowpo\source\repos\ВУЗ\Проекты курсовых работ\.NET_SOCKETS_Chat\Client_WPF\Client_WPF\obj\Debug\net8.0-windows\ref\Client_WPF.dll
+C:\dev\Csharp\University\Courseworks\.NET_SOCKETS_Chat\Client_WPF\Client_WPF\bin\Debug\net8.0-windows\Client_WPF.exe
+C:\dev\Csharp\University\Courseworks\.NET_SOCKETS_Chat\Client_WPF\Client_WPF\bin\Debug\net8.0-windows\Client_WPF.deps.json
+C:\dev\Csharp\University\Courseworks\.NET_SOCKETS_Chat\Client_WPF\Client_WPF\bin\Debug\net8.0-windows\Client_WPF.runtimeconfig.json
+C:\dev\Csharp\University\Courseworks\.NET_SOCKETS_Chat\Client_WPF\Client_WPF\bin\Debug\net8.0-windows\Client_WPF.dll
+C:\dev\Csharp\University\Courseworks\.NET_SOCKETS_Chat\Client_WPF\Client_WPF\bin\Debug\net8.0-windows\Client_WPF.pdb
+C:\dev\Csharp\University\Courseworks\.NET_SOCKETS_Chat\Client_WPF\Client_WPF\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\dev\Csharp\University\Courseworks\.NET_SOCKETS_Chat\Client_WPF\Client_WPF\obj\Debug\net8.0-windows\App.g.cs
+C:\dev\Csharp\University\Courseworks\.NET_SOCKETS_Chat\Client_WPF\Client_WPF\obj\Debug\net8.0-windows\Client_WPF_MarkupCompile.cache
+C:\dev\Csharp\University\Courseworks\.NET_SOCKETS_Chat\Client_WPF\Client_WPF\obj\Debug\net8.0-windows\Client_WPF_MarkupCompile.lref
+C:\dev\Csharp\University\Courseworks\.NET_SOCKETS_Chat\Client_WPF\Client_WPF\obj\Debug\net8.0-windows\MainWindow.baml
+C:\dev\Csharp\University\Courseworks\.NET_SOCKETS_Chat\Client_WPF\Client_WPF\obj\Debug\net8.0-windows\Client_WPF.g.resources
+C:\dev\Csharp\University\Courseworks\.NET_SOCKETS_Chat\Client_WPF\Client_WPF\obj\Debug\net8.0-windows\Client_WPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Csharp\University\Courseworks\.NET_SOCKETS_Chat\Client_WPF\Client_WPF\obj\Debug\net8.0-windows\Client_WPF.AssemblyInfoInputs.cache
+C:\dev\Csharp\University\Courseworks\.NET_SOCKETS_Chat\Client_WPF\Client_WPF\obj\Debug\net8.0-windows\Client_WPF.AssemblyInfo.cs
+C:\dev\Csharp\University\Courseworks\.NET_SOCKETS_Chat\Client_WPF\Client_WPF\obj\Debug\net8.0-windows\Client_WPF.csproj.CoreCompileInputs.cache
+C:\dev\Csharp\University\Courseworks\.NET_SOCKETS_Chat\Client_WPF\Client_WPF\obj\Debug\net8.0-windows\Client_WPF.dll
+C:\dev\Csharp\University\Courseworks\.NET_SOCKETS_Chat\Client_WPF\Client_WPF\obj\Debug\net8.0-windows\refint\Client_WPF.dll
+C:\dev\Csharp\University\Courseworks\.NET_SOCKETS_Chat\Client_WPF\Client_WPF\obj\Debug\net8.0-windows\Client_WPF.pdb
+C:\dev\Csharp\University\Courseworks\.NET_SOCKETS_Chat\Client_WPF\Client_WPF\obj\Debug\net8.0-windows\Client_WPF.genruntimeconfig.cache
+C:\dev\Csharp\University\Courseworks\.NET_SOCKETS_Chat\Client_WPF\Client_WPF\obj\Debug\net8.0-windows\ref\Client_WPF.dll
